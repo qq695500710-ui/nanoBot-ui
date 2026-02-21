@@ -1,6 +1,6 @@
 # nanobot-ui
 
-`nanobot-ui` 是一个 **Windows 可视化前端**，致敬并完全兼容香港大学开源项目 [HKUDS/nanobot](https://github.com/HKUDS/nanobot)。
+`nanobot-ui` 是一个 **Windows 可视化前端**，致敬并完全兼容香港大学开源项目 [HKUDS/nanobot](https://github.com/HKUDS/nanobot)。项目基于nanobot，实现开箱即用，无需安装任何环境和依赖，完美支持所有功能。
 
 > nanobot is an ultra-lightweight personal AI assistant inspired by [OpenClaw](https://github.com/openclaw/openclaw)
 
@@ -18,5 +18,6 @@
 - 开发人员（简体）：[`../开发人员使用手册.md`](./开发人员使用手册.md)
 - 开发人员（繁體）：[`../开发人员使用手册_繁體.md`](./开发人员使用手册_繁體.md)
 - 开发人员（English）：[`../开发人员使用手册_en.md`](./开发人员使用手册_en.md)
+
 
 
