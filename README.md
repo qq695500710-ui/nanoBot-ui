@@ -1,3 +1,7 @@
+======================================================
+#  [`点击下载`](https://github.com/qq695500710-ui/nanoBot-ui/releases/download/nanobot-ui/nanobot-ui.zip)
+======================================================
+
 # nanobot-ui
 
 `nanobot-ui` 是一个 **Windows 可视化前端**，致敬并完全兼容香港大学开源项目 [HKUDS/nanobot](https://github.com/HKUDS/nanobot)。项目基于nanobot，实现开箱即用，无需安装任何环境和依赖，完美支持所有功能。
@@ -53,5 +57,6 @@ QQ直接对话实现控制：截图中显示的是打开浏览器测试对话
 
 MCP管理功能：
 <img width="772" height="489" alt="屏幕截图 2026-02-21 231543" src="https://github.com/user-attachments/assets/061f7795-d5d4-49b9-8511-c03a58127fe6" />
+
 
 
