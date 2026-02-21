@@ -59,12 +59,13 @@ When [HKUDS/nanobot](https://github.com/HKUDS/nanobot) releases a new version:
 
 ### Documentation
 
-- User manual: [`../普通用户使用手册_en.md`](../普通用户使用手册_en.md)
-- Developer manual (Skills/MCP/packaged dependency mechanism): [`../开发人员使用手册_en.md`](../开发人员使用手册_en.md)
+- User manual: [`../普通用户使用手册_en.md`](./普通用户使用手册_en.md)
+- Developer manual (Skills/MCP/packaged dependency mechanism): [`./开发人员使用手册_en.md`](./开发人员使用手册_en.md)
 
 ---
 
 ### Star the project
 
 If this project helps you use nanobot **without writing code**, please give it a **Star** — it helps a lot.
+
 
