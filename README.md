@@ -1,5 +1,10 @@
+# 2026-02-23 （Estimated time within 6 hours, the current version does not affect use）
+1. Fixing some issues with Chinese text display garbling.
+2. Fixing the problem where Feishu cannot be configured after QQ configuration.
+3. Adapting the code of the official nanobot project to the latest 2026-02-21 version.
+
 ======================================================
-#  [`点击下载`](https://github.com/qq695500710-ui/nanoBot-ui/releases/download/nanobot-ui/nanobot-ui.zip)
+#  [`点击下载 /DOWNLOAD`](https://github.com/qq695500710-ui/nanoBot-ui/releases/download/nanobot-ui/nanobot-ui.zip)
 ======================================================
 
 # nanobot-ui
@@ -63,6 +68,7 @@ QQ直接对话实现控制：截图中显示的是打开浏览器测试对话
 
 MCP管理功能：
 <img width="772" height="489" alt="屏幕截图 2026-02-21 231543" src="https://github.com/user-attachments/assets/061f7795-d5d4-49b9-8511-c03a58127fe6" />
+
 
 
 
