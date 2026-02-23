@@ -9,6 +9,7 @@
 > nanobot is an ultra-lightweight personal AI assistant inspired by [OpenClaw](https://github.com/openclaw/openclaw)
 
 **视频介绍 / Introduction**
+
 [视频介绍 / Introduction](https://space.bilibili.com/507350153?spm_id_from=333.788.upinfo.head.click)
 [https://space.bilibili.com/507350153?spm_id_from=333.788.upinfo.head.click](https://space.bilibili.com/507350153?spm_id_from=333.788.upinfo.head.click)
 
@@ -62,6 +63,7 @@ QQ直接对话实现控制：截图中显示的是打开浏览器测试对话
 
 MCP管理功能：
 <img width="772" height="489" alt="屏幕截图 2026-02-21 231543" src="https://github.com/user-attachments/assets/061f7795-d5d4-49b9-8511-c03a58127fe6" />
+
 
 
 
