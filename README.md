@@ -1,5 +1,16 @@
 2026‑03‑06 | Latest Version 3.0No further updates planned unless unexpected issues arise. Server deployment is now fully integrated.
 One‑sentence summary:More stable, reliable, and usable than OpenClaw and NanoBot in commercial environments.
+
+Please use the Windows 10 system. If it still doesn't work, please allow it through the firewall and add it to the whitelist.  
+All the code is written using GPT-5.3.  
+It's really expensive. If you can provide a TOKEN, I might continue updating more versions in the future. I only want friends who are not programmers to be able to use it.  
+If you are willing, you can buy me a cup of coffee.  
+If you don't know how to use or install it, you can add my contact information and pay me with virtual currency or RMB. I will be happy to help you solve it.
+
+
+
+百度下载地址 https://pan.baidu.com/s/1-L8yydVqqrjgS8qydpneUQ?pwd=vAx7 
+
 1) Executive Summary
 Based on upstream NanoBot, with custom enhancements
 Integrates selected useful features from OpenClaw, while removing unsafe components from OpenClaw
@@ -134,6 +145,7 @@ QQ直接对话实现控制：截图中显示的是打开浏览器测试对话
 MCP管理功能：
 
 <img width="772" height="489" alt="屏幕截图 2026-02-21 231543" src="https://github.com/user-attachments/assets/061f7795-d5d4-49b9-8511-c03a58127fe6" />
+
 
 
 
