@@ -7,7 +7,13 @@ It's really expensive. If you can provide a TOKEN, I might continue updating mor
 If you are willing, you can buy me a cup of coffee.  
 If you don't know how to use or install it, you can add my contact information and pay me with virtual currency or RMB. I will be happy to help you solve it.
 
+trc20 
+usdt
+TVjxi7udNkJV2gNQvv9yD14KrgDsqwkNn1
 
+BTC
+BTClink
+17MTjNnfxHWq3phSATMkgn2cnMHiirdPEd
 
 百度下载地址 https://pan.baidu.com/s/1-L8yydVqqrjgS8qydpneUQ?pwd=vAx7 
 
@@ -145,6 +151,7 @@ QQ直接对话实现控制：截图中显示的是打开浏览器测试对话
 MCP管理功能：
 
 <img width="772" height="489" alt="屏幕截图 2026-02-21 231543" src="https://github.com/user-attachments/assets/061f7795-d5d4-49b9-8511-c03a58127fe6" />
+
 
 
 
