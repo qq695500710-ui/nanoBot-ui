@@ -1,3 +1,46 @@
+2026‑03‑06 | Latest Version 3.0No further updates planned unless unexpected issues arise. Server deployment is now fully integrated.
+One‑sentence summary:More stable, reliable, and usable than OpenClaw and NanoBot in commercial environments.
+1) Executive Summary
+Based on upstream NanoBot, with custom enhancements
+Integrates selected useful features from OpenClaw, while removing unsafe components from OpenClaw
+Local‑first visual control panel
+Fully automatic dependency download and environment setup on launch
+Runtime dependency self‑healing:
+Uses + automatic installation flowpython/yilai.txt
+Add any Python dependencies required by skills into ; they will be installed automatically on restartyilai.txt
+High operational stability across channels:Telegram / Feishu / QQ / DingTalk, etc.
+Upgraded automation logic:simpler than OpenClaw, more capable than vanilla NanoBot(MCP precise matching + fallback to + strict validation)exec
+Key advantage over OpenClaw and upstream NanoBot:Much stronger runtime reliability in packaged, real‑world desktop environments for end users.
+2) New Capabilities Added to NanoBot
+2.1 Deployment Layer
+Console‑less startup for end users
+All features configurable via visual web UI
+Click‑based visual management:
+Unified configuration
+Model routing
+Session control
+MCP / skill management
+Multi‑session concurrency
+Sync between local PC and chat platforms
+2.2 Reliability Layer
+Runtime dependency self‑healing
+Support for python/yilai.txt
+Support for dependency setnanobot-main
+Portable packaging scheme for site-packages / pywin32_system32
+2.3 Automation Policy Layer
+Fixed model / service routing mode
+Tool execution evidence framework (STRICT_EVIDENCE)
+Improved MCP‑first policy:from “MCP exists” to “MCP precisely matches user intent”
+Automatic fallback to / other tools if MCP cannot verify task completionexec
+3) Windows End‑User Delivery
+(Windows 10 recommended)Built specifically for real desktop environments:copy‑and‑run, self‑healing, operable out of the box.
+4) Windows Server Direct Deployment
+Run directly on a Windows Server
+Expose publicly by reverse‑proxying to on the server127.0.0.1:[port]
+This approach provides strong security
+External access rules can be managed via your server’s firewall / network policies
+
+
 2026-02-25 Update Content
 Synchronized and implemented the core changes recorded in up.md (related to QQ / Feishu, multimodal 'previous image' follow feature).
 Currently fixing some issues with Chinese character display glitches.
@@ -91,6 +134,7 @@ QQ直接对话实现控制：截图中显示的是打开浏览器测试对话
 MCP管理功能：
 
 <img width="772" height="489" alt="屏幕截图 2026-02-21 231543" src="https://github.com/user-attachments/assets/061f7795-d5d4-49b9-8511-c03a58127fe6" />
+
 
 
 
