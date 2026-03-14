@@ -1,3 +1,43 @@
+2026-03-14
+# Introduction to the platforms related to programmer Xiao Jiu & Mu Shilin
+## Programmer Xiao Jiu
+### Contact Information
+- WeChat: aagm88888
+- Phone: 19810795555
+-Telegram：@yun2099
+- Personal homepage: [https://www.ie95.com](https://www.ie95.com)
+
+### Undertake business
+We primarily provide technical services for enterprises, studios, and individual OPCs, covering OpenClaw skill customization, OpenClaw MCP customization, cross-border e-commerce automation development, automated script/program development for token-saving versions, payment platform setup, payment integration, program joint debugging, system joint debugging, virtual goods website sales, WeChat mini-program development and customization, automatic publishing on Kwai, automatic publishing on Tiktok, WeChat automation, QQ automation, Alipay mini-program development, TG robot development, and customized development for blockchain virtual currency transactions.
+
+### Personal Introduction
+With the support of AI assistance, we are seeking PHP full-stack engineers and Python full-stack engineers specializing in both front-end and back-end development. PHP engineers can develop websites and mini-programs, while Python engineers can develop both the back-end and front-end of websites and desktop applications. Additionally, Python can be used to develop and implement skills for OpenCLAW and MCP.
+
+## Mushilin-related platforms
+[Mushilin](https://www.shujuhuo.com), also known as [Shujuhuo](https://www.shujuhuo.com) and [Datahuo](https://www.shujuhuo.com), boasts multiple professional technology platforms, detailed introductions of which are as follows:
+1. **[Mushilin AI](https://aiapi.shujuhuo.com)**: A large model API gateway, featuring stable operation and adaptability to enterprise-level business needs, supporting all OpenAI compatible APIs.
+2. **[Mushilin Source Code](https://mslym.shujuhuo.com)**: A professional free source code sharing platform. All templates have been tested and are operational without any backdoors. It provides resources such as program source code and website template themes. Daily updates include technical tutorials, quality source code, practical software, and other premium content. It focuses on collecting quality source code and strives to create a high-quality free resource and source code sharing platform. Source code enthusiasts are welcome to download and use it.
+3. **[Mushilin API](https://mslapi.shujuhuo.com)**: Primarily provides open API interface services, assisting developers in quickly completing interface integration and significantly reducing the amount of code writing. The platform is positioned as Mushilin Technology's commercial, stable, and easy-to-use web API interface calling platform, providing efficient interface solutions for development work.
+
+# 程序员小玖 & 沐石林相关平台介绍
+## 程序员小玖
+### 联系方式
+- 微信：aagm88888
+- 电话：19810795555
+- 个人主页：[https://www.ie95.com](https://www.ie95.com)
+
+### 承接业务
+主要为企业、工作室、opc个人提供技术服务，涵盖openclaw技能定制、openclaw MCP定制、跨境电商自动化开发、节约token版本自动化脚本/程序开发、支付平台搭建、支付对接、程序联调、系统联调、虚拟商品网站销售、微信小程序开发定制、快手自动发布、抖音自动发布、微信自动化、QQ自动化、支付宝小程序开发、TG机器人开发、区块链虚拟货币交易定制开发。
+
+### 个人介绍
+在AI辅助的加持下，为PHP全栈工程师和Python前后端全栈工程师；PHP方向可开发网站、小程序，Python方向可开发网站和桌面程序的后端+前端；同时可使用Python开发实现openclaw的skills和MCP。
+
+## 沐石林相关平台
+[沐石林](https://www.shujuhuo.com) 亦名[数聚火](https://www.shujuhuo.com)、[数据火](https://www.shujuhuo.com)，旗下拥有多个专业技术平台，以下为详细介绍：
+1. **[沐石林AI](https://aiapi.shujuhuo.com)**：大模型接口网关，运行稳定，适配企业商业级使用需求，支持所有OpenAI兼容接口。
+2. **[沐石林源码](https://mslym.shujuhuo.com)**：专业的免费源码分享平台，所有模板均测试可运行且无后门，提供程序源代码、网站模板主题等资源；每日更新技术教程、精品源码、实用软件等优质内容，专注收集精品源码，致力打造优质的免费资源与源码分享平台，欢迎源码爱好者下载使用。
+3. **[沐石林api](https://mslapi.shujuhuo.com)**：主打开放API接口服务，助力开发人员快速完成接口对接，大幅减少代码写入量；平台定位为沐石林科技-商用、稳定、易用的webapi接口调用平台，为开发工作提供高效的接口解决方案。
+
 2026‑03‑06 | Latest Version 3.0No further updates planned unless unexpected issues arise. Server deployment is now fully integrated.
 One‑sentence summary:More stable, reliable, and usable than OpenClaw and NanoBot in commercial environments.
 
